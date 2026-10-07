@@ -9,7 +9,7 @@ The goal is to bring the legacy auto-aim feel of Nisha's original **Showdown** a
 ## Credits
 
 - **LJBreeze** — creator of the original Nisha playable-character mod for Borderlands 2. This project exists on top of / alongside that work.
-- **Dragoș / codawatt** — legacy aimbot adaptation / experiment.
+- **codawatt** — legacy aimbot adaptation / experiment.
 - **LLM assistance** — used during development and iteration of the adaptation. Final integration and testing remain the responsibility of the project author.
 
 ## Installation
